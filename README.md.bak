@@ -1,9 +1,5 @@
 # center-component
 
-##figma
-<div align="center">
-<a href="https://skyhdev.github.io/vue-memtabel-figma" target="_blank"><img src="./public/figma.png" alt="screenshot" /></a>
-</div>
 ## Project setup
 ```
 yarn install
